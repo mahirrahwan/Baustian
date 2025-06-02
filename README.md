@@ -63,20 +63,15 @@ The app features a secure role-based login & signup system using **Firebase Auth
    git clone https://github.com/your-username/baustian.git
 
 
+## 🖼️ App Prototype
 
+<img src="https://github.com/user-attachments/assets/1d00d988-5766-4da7-8826-b3f04f9365dc" width="600"/>
+<img src="https://github.com/user-attachments/assets/01b6052e-1f7f-4d72-b1dd-3d8cba189966" width="600"/>
+<img src="https://github.com/user-attachments/assets/df1e2d6d-8b69-45c5-8cdc-408cfe47f2b2" width="600"/>
+<img src="https://github.com/user-attachments/assets/6d95c9b6-9ef1-4cf7-ba9e-baae67a4edd4" width="600"/>
+<img src="https://github.com/user-attachments/assets/f65df866-ba08-42b3-b0b3-c889e48bc976" width="600"/>
+<img src="https://github.com/user-attachments/assets/62b0beaa-902a-43ef-a821-174a66510327" width="600"/>
+<img src="https://github.com/user-attachments/assets/9a11fec6-1380-4af0-9b16-cd74a2ead87b" width="600"/>
+<img src="https://github.com/user-attachments/assets/a909cbf7-a1ce-4dde-b27f-15e7354fb31a" width="600"/>
+<img src="https://github.com/user-attachments/assets/ab18a15b-d9ca-41ab-b2f8-204686b13891" width="600"/>
 
-
-
-
-
-   ![Image](https://github.com/user-attachments/assets/1d00d988-5766-4da7-8826-b3f04f9365dc)
-
-![Image](https://github.com/user-attachments/assets/01b6052e-1f7f-4d72-b1dd-3d8cba189966)
-
-![Image](https://github.com/user-attachments/assets/df1e2d6d-8b69-45c5-8cdc-408cfe47f2b2)
-![Image](https://github.com/user-attachments/assets/6d95c9b6-9ef1-4cf7-ba9e-baae67a4edd4)
-![Image](https://github.com/user-attachments/assets/f65df866-ba08-42b3-b0b3-c889e48bc976)
-![Image](https://github.com/user-attachments/assets/62b0beaa-902a-43ef-a821-174a66510327)
-![Image](https://github.com/user-attachments/assets/9a11fec6-1380-4af0-9b16-cd74a2ead87b)
-![Image](https://github.com/user-attachments/assets/a909cbf7-a1ce-4dde-b27f-15e7354fb31a)
-![Image](https://github.com/user-attachments/assets/ab18a15b-d9ca-41ab-b2f8-204686b13891)
