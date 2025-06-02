@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/courseTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Course Sections"
+            android:textSize="20sp"
+            android:layout_marginBottom="24dp" />
+
+        <!-- CT Section -->
+        <Button
+            android:id="@+id/ctButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📌 Add CT" />
+
+        <TextView
+            android:id="@+id/ctInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📃 CT Info will show here"
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:textColor="#444444"
+            android:background="#eeeeee"
+            android:layout_marginTop="8dp" />
+
+        <!-- Notice Section -->
+        <Button
+            android:id="@+id/noticeButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📢 Add Notice"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/noticeInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📃 Notice Info will show here"
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:textColor="#444444"
+            android:background="#eeeeee"
+            android:layout_marginTop="8dp" />
+
+        <!-- Slides Section -->
+        <Button
+            android:id="@+id/slidesButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📄 Add Slides"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/slidesInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📃 Slides Info will show here"
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:textColor="#444444"
+            android:background="#eeeeee"
+            android:layout_marginTop="8dp" />
+
+        <!-- Assignment Section -->
+        <Button
+            android:id="@+id/assignmentButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📝 Add Assignment"
+            android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/assignmentInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📃 Assignment Info will show here"
+            android:textSize="14sp"
+            android:padding="8dp"
+            android:textColor="#444444"
+            android:background="#eeeeee"
+            android:layout_marginTop="8dp" />
+
+    </LinearLayout>
+</ScrollView>

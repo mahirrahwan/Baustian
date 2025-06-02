@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667389570006",
+    "project_id": "baustian-8264d",
+    "storage_bucket": "baustian-8264d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667389570006:android:1ed24b2927accf76221277",
+        "android_client_info": {
+          "package_name": "com.baust.baustian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSGIBbY3G-qe6PDjJCTzW770DpGAn-tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
